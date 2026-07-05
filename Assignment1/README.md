@@ -5,3 +5,12 @@ In this assignment, we studied the insertion sort algorithm from *Introduction t
 We modified the algorithm to sort numbers in decreasing order. By following the book's principles—taking one item at a time, comparing it with preceding items, and placing it in the correct position—we kept the code simple.
 
 The result is a concise Python script that sorts a list from largest to smallest.
+
+## How to Run
+
+1. Open a terminal in the `Assignment1` folder.
+2. Run the program with:
+
+	`python3 insertion_sort_descending.py`
+
+3. The script will print the sorted list in decreasing order.
